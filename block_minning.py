@@ -1,7 +1,4 @@
 
-#Name: Nipun Deshan Sumanasinghe
-#Student ID: 10486873
-
 import json
 import datetime
 import hashlib
